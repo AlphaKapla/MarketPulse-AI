@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MarketPulse AI",
+  "description": "A real-time market sentiment analyzer that leverages Gemini's search grounding to evaluate global financial news and provide actionable insights.",
+  "requestFramePermissions": []
+}
